@@ -29,7 +29,7 @@
 จุดที่สำคัญอีกจุดหนึ่งของการทำ Application คือการทำ Application ที่ฟรี และ Application ที่เสียเงิน
 จากข้อมูลเราสามารถเห็นจำนวนที่แตกต่างระหว่าง Application ที่ฟรีและ application ที่เสียเงิน หากแบ่งตามจำนวนครั้งที่ดาวน์โหลด จะเห็นได้ว่าจำนวน Application ที่มีการดาวน์โหลดมากกว่า 50 ล้านครั้ง ล้วนเป็น Application ที่ฟรีทั้งหมด
 
------กราฟ3-----
+![Unknown](https://github.com/Bellepimchana/install/assets/137284926/08a72089-0620-4de0-960d-ada28af2e057)
 
 
    ### มูลค่าของ Application ที่เสียเงิน
